@@ -12,6 +12,4 @@ redirect_from:
 Education
 ======
 * Ph.D in Math, Zhejiang University, 2024
-% * M.S. in Jekyll, GitHub University, 2014
-% * B.S. in GitHub, GitHub University, 2012
 
