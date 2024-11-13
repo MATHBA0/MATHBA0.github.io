@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "MATHBAO"
+title                    : "Homepage of Bao Leizhen"
 title_separator          : "-"
 name                     : &name "Bao Leizhen"
 description              : &description "personal description"
@@ -34,7 +34,6 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   # impactstory      : # URL
-  mathscinet       : "http://mathscinet.ams.org/mathscinet/author?authorId=1584700"
   orcid            : "https://orcid.org/0009-0001-0695-6113"
   # semantic         : # URL
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
