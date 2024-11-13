@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,11 +13,11 @@ redirect_from:
 * My [MATHSCINET](http://mathscinet.ams.org/mathscinet/author?authorId=1584700)
 
 # Publications
-1. **Leizhen Bao** and Fang Li. A study on Diophantine equations via cluster theory. J. Algebra, 2024. 
-   [DOI](https://doi.org/10.1016/j.jalgebra.2023.10.012), [arXiv](https://arxiv.org/abs/2306.00468)
+1. **Leizhen Bao** and Fang Li. A study on Diophantine equations via cluster theory. J. Algebra, 2024.
+   * [DOI](https://doi.org/10.1016/j.jalgebra.2023.10.012), [arXiv](https://arxiv.org/abs/2306.00468)
 
-2. **Leizhen Bao** and Fang Li. A Cluster-Theoretic Approach to Diophantine Equations
-   [Matlab program (Update 24.11.13)](/files/matlab_CA&NT.zip)
+3. **Leizhen Bao** and Fang Li. A Cluster-Theoretic Approach to Diophantine Equations
+   * [Matlab program (Update 24.11.13)](/files/matlab_CA&NT.zip)
 
 
 # Report
