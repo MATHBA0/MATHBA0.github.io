@@ -17,11 +17,12 @@ redirect_from:
    [DOI](https://doi.org/10.1016/j.jalgebra.2023.10.012), [arXiv](https://arxiv.org/abs/2306.00468)
 
 2. **Leizhen Bao** and Fang Li. A Cluster-Theoretic Approach to Diophantine Equations
+   [Matlab program (Update 24.11.13)](/files/matlab_CA&NT.zip)
 
 
 # Report
 1. Cluster symmetry and Diophantine equations.
-    * International Conference on Representations of Algebras (ICRA 21, 2024)
+    * International Conference on Representations of Algebras ([ICRA 21](https://icra21.sjtu.edu.cn/index.html))
     * Shanghai Jiao Tong University, 2024.08.08
     * [Sildes](https://icra21.sjtu.edu.cn/LeizhenBao.pdf) 
    
