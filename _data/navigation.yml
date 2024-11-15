@@ -13,12 +13,12 @@ main:
 
 #   - title: "Teaching"
 #     url: /teaching/    
-    
-#   - title: "Portfolio"
-#     url: /portfolio/
 
   - title: "Marathon"
     url: /marathon/
+
+  - title: "Portfolio"
+    url: /portfolio/
         
 #   - title: "Blog Posts"
 #     url: /year-archive/
