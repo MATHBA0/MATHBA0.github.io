@@ -9,11 +9,11 @@ redirect_from:
 
 # About Me
 * I am a current PhD student in pure mathematics at Zhejiang University.
-* My research interests are: cluster algebra and number theory.
+* My research interest is: the intersection of cluster theory and number theory.
 * My [MATHSCINET](http://mathscinet.ams.org/mathscinet/author?authorId=1584700)
 
 # Publications
-1. **A study on Diophantine equations via cluster theory**.
+1. **A Study on Diophantine Equations via Cluster Theory**.
    * with Fang Li.
    * Journal of Algebra, 2024.
    * [DOI](https://doi.org/10.1016/j.jalgebra.2023.10.012), [arXiv](https://arxiv.org/abs/2306.00468)
