@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-![medals](/images/marathonmedal.png)
+![medals](/images/marathonmedals.png)
 
 |  |   |   |    |    |  |  |
 | ---------- | ---- | ------- | -------- |--------|--------|-------- |
