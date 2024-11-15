@@ -1,4 +1,11 @@
-
+---
+layout: archive
+title: "Math"
+permalink: /math/
+author_profile: true
+redirect_from:
+  - /resume
+---
 
 # About Me
 * I am a current PhD student in pure mathematics at Zhejiang University.
