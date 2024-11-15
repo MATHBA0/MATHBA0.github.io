@@ -9,10 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-
+![medals](/images/marathon_medal.png)
 
 |  |   |   |    |    |  |  |
-| ----------------- | ---- | ------- | -------- |--------|--------|-------- |
+| ---------- | ---- | ------- | -------- |--------|--------|-------- |
 |  |   |   |    | **1:33:55** PB | Half  | 21.05.04, Shangyu |
 |  |   |   |    | 1:36:58   | Half | 21.04.11, Tonglu |
 |  |   |   |    | 1:35:28   | Half | 20.12.31, ZJU |
@@ -24,5 +24,3 @@ redirect_from:
 | 18.12.02, Wenzhou | Full  | 5:41:56  |    |    |  |  |
 |                   |        |   |    | 2:19:44   | Half | 18.04.15, Shaoxing |
 
-
-![medals](/images/marathon_medal.png)
