@@ -10,8 +10,8 @@ redirect_from:
 # About Me
 * I am a current PhD student in pure mathematics at Zhejiang University.
 * My research interest is: the intersection of cluster theory and number theory.
-* My [MATHSCINET](http://mathscinet.ams.org/mathscinet/author?authorId=1584700)
-* My [arXiv](http://arxiv.org/a/bao_l_3)
+* My [MathSciNet](http://mathscinet.ams.org/mathscinet/author?authorId=1584700)
+* My [arXiv](http://arxiv.org/a/bao_l_3) 
 
 # Publications
 1. **A Study on Diophantine Equations via Cluster Theory**.
