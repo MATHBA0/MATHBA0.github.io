@@ -14,11 +14,11 @@ main:
 #   - title: "Teaching"
 #     url: /teaching/    
 
-  - title: "Math"
-    url: /math/
+  # - title: "Math"
+  #   url: /math/
 
-  - title: "Marathon"
-    url: /marathon/
+  # - title: "Marathon"
+  #   url: /marathon/
 
   # - title: "Portfolio"
   #   url: /portfolio/
